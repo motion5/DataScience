@@ -1,2 +1,33 @@
 {
+  "jupyter.kernels.filter": [
+    {
+      "path": "/Users/rob/opt/anaconda3/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/rob/opt/anaconda3/envs/muse_app/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/local/share/jupyter/kernels/python3/kernel.json",
+      "type": "jupyterKernelspec"
+    },
+    {
+      "path": "/usr/local/bin/python3",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/local/bin/python3.8",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/local/bin/python3.9",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/bin/python3",
+      "type": "pythonEnvironment"
+    }
+  ],
+  "python.terminal.activateEnvironment": true
 }
